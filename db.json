@@ -1,0 +1,199 @@
+{
+  "trophies": [
+    {
+      "badge_category": "virtual",
+      "badge_icon_url": "",
+      "badge_id": 0,
+      "badge_name": "VR Sprint",
+      "badge_year": 2020,
+      "earned": true
+    },
+    {
+      "badge_category": "virtual",
+      "badge_icon_url": "",
+      "badge_id": 1,
+      "badge_name": "VR Super",
+      "badge_year": 2020,
+      "earned": false
+    },
+    {
+      "badge_category": "virtual",
+      "badge_icon_url": "",
+      "badge_id": 2,
+      "badge_name": "VR Beast",
+      "badge_year": 2020,
+      "earned": false
+    },
+    {
+      "badge_category": "race",
+      "badge_icon_url": "",
+      "badge_id": 3,
+      "badge_name": "Open Heat",
+      "badge_year": 2020,
+      "earned": true
+    },
+    {
+      "badge_category": "race",
+      "badge_icon_url": "",
+      "badge_id": 4,
+      "badge_name": "Elite Heat",
+      "badge_year": 2020,
+      "earned": true
+    },
+
+    {
+      "badge_category": "Age Group Rank",
+      "badge_icon_url": "",
+      "badge_id": 5,
+      "badge_name": "Age Group Win",
+      "badge_year": 2020,
+      "earned": true
+    },
+    {
+      "badge_category": "Age Group Rank",
+      "badge_icon_url": "",
+      "badge_id": 6,
+      "badge_name": "Age Group 2nd",
+      "badge_year": 2020,
+      "earned": false
+    },
+    {
+      "badge_category": "Age Group Rank",
+      "badge_icon_url": "",
+      "badge_id": 7,
+      "badge_name": "Age Group 3rd",
+      "badge_year": 2020,
+      "earned": false
+    },
+    {
+      "badge_category": "Age Group Rank",
+      "badge_icon_url": "",
+      "badge_id": 8,
+      "badge_name": "Age Group 4th",
+      "badge_year": 2020,
+      "earned": false
+    },
+    {
+      "badge_category": "Age Group Rank",
+      "badge_icon_url": "",
+      "badge_id": 9,
+      "badge_name": "Age Group 5th",
+      "badge_year": 2020,
+      "earned": false
+    },
+
+    {
+      "badge_category": "race",
+      "badge_icon_url": "",
+      "badge_id": 10,
+      "badge_name": "City",
+      "badge_year": 2021,
+      "earned": true
+    },
+    {
+      "badge_category": "race",
+      "badge_icon_url": "",
+      "badge_id": 11,
+      "badge_name": "Stadion",
+      "badge_year": 2021,
+      "earned": true
+    },
+    {
+      "badge_category": "race",
+      "badge_icon_url": "",
+      "badge_id": 12,
+      "badge_name": "Sprint",
+      "badge_year": 2021,
+      "earned": false
+    },
+    {
+      "badge_category": "race",
+      "badge_icon_url": "",
+      "badge_id": 13,
+      "badge_name": "Super",
+      "badge_year": 2021,
+      "earned": false
+    },
+    {
+      "badge_category": "race",
+      "badge_icon_url": "",
+      "badge_id": 14,
+      "badge_name": "Beast",
+      "badge_year": 2021,
+      "earned": true
+    },
+    {
+      "badge_category": "race",
+      "badge_icon_url": "",
+      "badge_id": 15,
+      "badge_name": "Ultra",
+      "badge_year": 2021,
+      "earned": false
+    },
+    {
+      "badge_category": "race",
+      "badge_icon_url": "",
+      "badge_id": 16,
+      "badge_name": "Open Heat",
+      "badge_year": 2021,
+      "earned": true
+    },
+    {
+      "badge_category": "race",
+      "badge_icon_url": "",
+      "badge_id": 17,
+      "badge_name": "Age Group Heat",
+      "badge_year": 2021,
+      "earned": true
+    },
+    {
+      "badge_category": "race",
+      "badge_icon_url": "",
+      "badge_id": 18,
+      "badge_name": "Elite Heat",
+      "badge_year": 2021,
+      "earned": false
+    },
+
+    {
+      "badge_category": "Gender rank",
+      "badge_icon_url": "",
+      "badge_id": 19,
+      "badge_name": "Gender Win",
+      "badge_year": 2021,
+      "earned": false
+    },
+    {
+      "badge_category": "Gender rank",
+      "badge_icon_url": "",
+      "badge_id": 20,
+      "badge_name": "Gender 2nd",
+      "badge_year": 2021,
+      "earned": false
+    },
+    {
+      "badge_category": "Gender rank",
+      "badge_icon_url": "",
+      "badge_id": 21,
+      "badge_name": "Gender 3rd",
+      "badge_year": 2021,
+      "earned": false
+    },
+    {
+      "badge_category": "Gender rank",
+      "badge_icon_url": "",
+      "badge_id": 22,
+      "badge_name": "Gender 4th",
+      "badge_year": 2021,
+      "earned": true
+    },
+    {
+      "badge_category": "Gender rank",
+      "badge_icon_url": "",
+      "badge_id": 23,
+      "badge_name": "Gender 5th",
+      "badge_year": 2021,
+      "earned": true
+    }
+  ]
+}
